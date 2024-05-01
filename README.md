@@ -21,11 +21,3 @@ Para enviar suas próprias felicitações personalizadas, siga estes passos:
 
 - `customize.json`: Altere para incluir suas próprias mensagens e escolha uma imagem que represente bem a ocasião. Para mudanças mais avançadas, ajuste os arquivos HTML, CSS e JS conforme necessário.
 
-### Dicas
-
-- Este é um projeto simples baseado em HTML, CSS e JavaScript.
-- Não há garantias. Modifique e use por sua conta e risco.
-
-## Espalhando Alegria
-
-Este projeto é perfeito para fazer com que os aniversários dos seus amigos sejam memoráveis. Estou animado para ver como você vai usar isso para criar momentos especiais!
