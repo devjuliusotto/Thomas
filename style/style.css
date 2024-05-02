@@ -125,8 +125,8 @@ body {
 .six .hat {
   position: absolute;
   width: 80px;
-  top: -120px;  /* Valor aumentado para mover mais para cima */
-  left: 80%;    /* Valor aumentado para mover mais para a direita */
+  top: -110px;  /* Valor aumentado para mover mais para cima */
+  left: 85%;    /* Valor aumentado para mover mais para a direita */
   /* transform: scale(0.1); */
 }
 
