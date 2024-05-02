@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 75px;
   top: -95px;  /* Valor aumentado para mover mais para cima */
-  left: 65%;    /* Valor aumentado para mover mais para a direita */
+  left: 45%;    /* Valor aumentado para mover mais para a direita */
   /* transform: scale(0.1); */
 }
 
@@ -265,7 +265,7 @@ body {
   .six .hat {
   width: 70px;
   top: -95px;
-  left: 65%;
+  left: 45%;
 }
 
   .four .text-box {
