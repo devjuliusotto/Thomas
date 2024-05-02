@@ -126,7 +126,7 @@ body {
   position: absolute;
   width: 75px;
   top: -105px;  /* Valor aumentado para mover mais para cima */
-  left: 95%;    /* Valor aumentado para mover mais para a direita */
+  left: 120%;    /* Valor aumentado para mover mais para a direita */
   /* transform: scale(0.1); */
 }
 
