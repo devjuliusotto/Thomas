@@ -44,7 +44,7 @@ body {
 .one > img {
   vertical-align: middle;
   margin-bottom: 10px;
-  max-width: 50%;
+  max-width: 60%;
   height: auto;
 }
 
@@ -118,15 +118,15 @@ body {
 
 .six img {
   display: inline-block;
-  max-width: 50%;
+  max-width: 70%;
   height: auto;
 }
 
 .six .hat {
   position: absolute;
-  width: 100px;
-  top: -95px;
-  left: 48%;
+  width: 75px;
+  top: -105px;  /* Valor aumentado para mover mais para cima */
+  left: 95%;    /* Valor aumentado para mover mais para a direita */
   /* transform: scale(0.1); */
 }
 
@@ -277,11 +277,6 @@ body {
 
   .idea-6 span {
     font-size: 10rem;
-  }
-
-  .six .hat {
-    width: 50px;
-    top: -20px;
   }
 
   .wish-hbd {
