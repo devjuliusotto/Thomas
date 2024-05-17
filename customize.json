@@ -1,10 +1,10 @@
 {
   "greeting": "Olá",
-  "name": "Naahma",
+  "name": "Taylor",
   "greetingText": "Hoje, é o aniversário da melhor amiga que alguém poderia ter na vida 🙃",
-  "wishText": "Tudo de bom Naahmaaaaaa!!! Saiba que você é uma pessoa muito incrível e super importante pra mim... \nToda vez q lembro da FURB não consigo parar de pensar nas zoeiras da van kkkrying",
-  "imagePath": "img/naahma.png",
-  "text1": "02/05/2024... aquele em que a Naahma faz 20 :D",
+  "wishText": "Tudo de bom Tayloooor!!! Saiba que você é uma pessoa muito incrível e super importante pra mim... ",
+  "imagePath": "img/Taylor.png",
+  "text1": "02/05/2024... aquele em que a Taylor faz 20 :D",
   "textInChatBox": "Feliz aniversário, muitos anos de vida bla bla bla...",
   "sendButtonLabel": "Enviar",
   "text2": "Isso que eu iria fazer.",
@@ -18,6 +18,6 @@
   "bigTextPart2": " Ã O ",
   "wishHeading": "Feliz Aniversário!",
   "outroText": "Mas enfim, espero q possamos marcar um rolê em breve...\nI miss you...",
-  "replayText": "Aproveite mt bem teu dia e mais tarde vou aí na tua casa pra fazemos uma festa, ok? já termionu chamou a galera? \n Tuts Tuts Tuts Tuts \n \n Ah, dsclp pela hora e por atacar sua ansiedade... Fiz meu drama só pra ter mais emoção na hora de receber o link hehehe ",
+  "replayText": "Se quiser reassistir, clique neste link.",
   "outroSmiley": ":)"
 }
