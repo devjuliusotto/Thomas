@@ -1,5 +1,7 @@
 # Projeto Parabéns Personalizado
 
+* A Personagem Taylor é somente um modelo utilizado para a vizualização do projeto publicamente *
+
 Este é um projeto que uso para enviar felicitações de aniversário de uma maneira única e animada para os meus amigos.
 
 ## Veja Como Funciona
