@@ -6,7 +6,7 @@ Este é um projeto que uso para enviar felicitações de aniversário de uma man
 
 ## Veja Como Funciona
 
-Acesse o projeto em ação aqui: [Demonstração do Projeto Parabéns](https://devjuliusotto.github.io/ProjetoAniversario/)
+Acesse o projeto em ação aqui: [Demonstração do Projeto Aniversário](https://devjuliusotto.github.io/ProjetoAniversario/)
 
 ## Como Usar
 
