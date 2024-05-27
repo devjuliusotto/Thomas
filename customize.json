@@ -1,10 +1,10 @@
 {
-  "greeting": "Olá",
-  "name": "Taylor",
-  "greetingText": " \nA personagem Taylor é apenas de caráter fictício e serve como demonstração do projeto!",
-  "wishText": "Tudo de bom Tayloooor!!! Saiba que você é uma pessoa muito incrível e super importante pra mim... ",
-  "imagePath": "img/Taylor.jpg",
-  "text1": "02/05/2024... aquele em que a Taylor faz 20 :D \n \n \n Hoje, é o aniversário da melhor amiga que alguém poderia ter na vida 🙃",
+  "greeting": "Hallo",
+  "name": "Sara",
+  "greetingText": " \nEu sei, você está curiosa quanto ao que esta por vir 👀",
+  "wishText": "Ou melhor, Herzlichen Glückwunch Zum Geburtstag!!! Ich Wünche dir Viele Gotte Seege und viel glück in deinen neuer Lebensjahr! Ich drücke dir immer die däume und hoffe dass alles gut geht für deine reise nach Deutchland :)) ",
+  "imagePath": "img/Sara.webp",
+  "text1": "27/05/2024... aquele em que a Sara faz 19 :D \n \n \n Niver Pré-Viagem...",
   "textInChatBox": "Feliz aniversário, muitos anos de vida bla bla bla...",
   "sendButtonLabel": "Enviar",
   "text2": "Isso que eu iria fazer.",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": " E N T ",
   "bigTextPart2": " Ã O ",
-  "wishHeading": "Feliz Aniversário!",
-  "outroText": "Mas enfim, espero q possamos marcar um rolê em breve...\nI miss you...",
-  "replayText": "Se quiser reassistir, clique neste link.",
+  "wishHeading": "Feliz Aniversário! ",
+  "outroText": "Mas enfim, aproveite muito bem o seu B-DAY e continue sevindo a Cristo sendo a sua imagem e semelhança :)",
+  "replayText": "Wieder sehen! \n \n Ps. Clique aqui caso queira assistir novamente",
   "outroSmiley": ":)"
 }
