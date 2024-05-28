@@ -209,7 +209,7 @@ const animationTimeline = () => {
       0.2
     )
     .from(
-      ".Taylor-dp",
+      ".lydia-dp",
       0.5,
       {
         scale: 3.5,
