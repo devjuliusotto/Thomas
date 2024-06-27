@@ -274,7 +274,7 @@ body {
   .six .hat {
   width: 60px;
   top: -20px;  /* Valor aumentado para mover mais para cima */
-  left: 34%;    /* Valor aumentado para mover mais para a direita */
+  left: 31%;    /* Valor aumentado para mover mais para a direita */
   /* transform: scale(0.1); */
 }
 
