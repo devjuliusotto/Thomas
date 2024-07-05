@@ -1,1 +1,1 @@
-https:www.devjuliusotto.github.io/thomas
+www.devjuliusotto.github.io/Thomas/
